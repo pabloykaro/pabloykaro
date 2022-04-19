@@ -4,7 +4,7 @@ Young and passionate about the technological world since 12 years old, my first 
 
 
 ### Skill's:
--> PHP
+  -> PHP
 -> JavaScript
 -> HTML
 -> CSS
