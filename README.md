@@ -5,8 +5,10 @@ Young and passionate about the technological world since 12 years old, my first 
 
 ### Skill's:
 PHP
+Node
 JavaScript
 HTML
 CSS
+React
 React Native
 
